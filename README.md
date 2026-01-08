@@ -2,7 +2,7 @@
 
 <h2>1001개의 BBC 뉴스 기사로 구성된 샘플 データセット</h2>
 
-![BBC dataset header](https://github.com/luminati-io/BBC-dataset-samples/blob/main/BBC-datasets.png)
+![BBC dataset header](https://github.com/bright-kr/BBC-dataset-samples/blob/main/BBC-datasets.png)
 
 1000개 이상의 레코드로 구성된 BBC データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
